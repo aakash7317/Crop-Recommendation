@@ -1,4 +1,6 @@
-pandas
+Flask
 numpy
-seaborn
-flask
+pandas
+scikit-learn
+matplotlib
+gunicorn
